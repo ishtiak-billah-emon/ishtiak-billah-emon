@@ -13,21 +13,21 @@
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
 ## Tools:
+<!-- ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) -->
+<!-- ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) --> <br />
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-
-<!-- ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes) -->
-<!-- ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform) <br/>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
-![Oracle DB](https://img.shields.io/badge/-OracleDB-000000?style=flat&logo=oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=springboot) <br /> -->
- [React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
- [Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) <br/>
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
+![Oracle DB](https://img.shields.io/badge/-OracleDB-000000?style=flat&logo=oracle) <br />
+
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes) -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) -->
+<!-- ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx) -->
+<!-- ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=terraform) --> <br/>
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) --> <br />
+<!-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=springboot) --> <br/>
 
 
 ## Github Overview
