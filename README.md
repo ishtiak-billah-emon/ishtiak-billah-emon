@@ -12,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
-## Tools:
+## Frameworks & Databases:
 <!-- ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) -->
 <!-- ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) --> <br />
 
