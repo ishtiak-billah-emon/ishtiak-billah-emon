@@ -26,11 +26,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=springboot) <br /> -->
-<!-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) -->
-<!-- ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) <br/> -->
+ [React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
+ [Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) <br/>
 
-![MS Word](https://img.shields.io/badge/-MS%20Word-000000?style=flat&logo=microsoft%20word)
-![MS PPT](https://img.shields.io/badge/-MS%20Powerpoint-000000?style=flat&logo=microsoft%20powerpoint)
 
 ## Github Overview
 
